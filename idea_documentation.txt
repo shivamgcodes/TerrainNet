@@ -1,0 +1,1 @@
+ we are using CNNs to classify images into different terrain types, additionally we are using texture extraction techniques to get the additional features like slipperiness, roughness and bumpiness Both of these allow our model to predict the type of terrain we are dealing with , this makes our model more accurate
